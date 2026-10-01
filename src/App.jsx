@@ -409,6 +409,12 @@ function App() {
                 <a className="button secondary" href="#projects">
                   View projects
                 </a>
+                <a className="button secondary" href="/cv.pdf" target="_blank" rel="noopener noreferrer">
+                  View my CV
+                </a>
+                <a className="button secondary" href="/cv.pdf" download="Sibabalwe-Rayi-CV.pdf">
+                  Download CV
+                </a>
               </div>
             </div>
             <div className="hero-image-container">
